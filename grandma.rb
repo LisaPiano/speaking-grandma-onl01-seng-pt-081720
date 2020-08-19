@@ -5,7 +5,7 @@ def speak_to_grandma(speak)
 
   elsif
     speak == speak.downcase
-    return "HUH? SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
 
   elseif
   speak == speak.capitalize
@@ -13,7 +13,7 @@ def speak_to_grandma(speak)
 
 else
 speak == speak.upcase
-return "HUH? SPEAK UP, SONNY!"
+return "HUH?! SPEAK UP, SONNY!"
 
 
 
