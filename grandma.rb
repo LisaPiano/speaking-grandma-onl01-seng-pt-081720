@@ -7,7 +7,7 @@ def speak_to_grandma(speak)
     speak == speak.downcase
     return "HUH? SPEAK UP, SONNY!"
 
-  else
+  elseif
   speak == speak.capitalize
   return "NO, NOT SINCE 1938!"
 
