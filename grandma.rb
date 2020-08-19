@@ -1,5 +1,5 @@
 def speak_to_grandma (speak)
-  
+
 print "Say something to Grandma."
   speak = gets.chomp
 
