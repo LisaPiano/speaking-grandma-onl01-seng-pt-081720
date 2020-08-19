@@ -7,11 +7,7 @@ def speak_to_grandma(speak)
   speak == speak.capitalize
   return "NO, NOT SINCE 1938!"
 
-else
-return "HUH?! SPEAK UP, SONNY!"
-
-
-
-
-end
+  else
+  return "HUH?! SPEAK UP, SONNY!"
+  end
 end
