@@ -11,6 +11,11 @@ def speak_to_grandma(speak)
   speak == speak.capitalize
   return "NO, NOT SINCE 1938!"
 
+elseif
+speak == speak.upcase
+return "NO, NOT SINCE 1938!"
+
+
 
 
 end
