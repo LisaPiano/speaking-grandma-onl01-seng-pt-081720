@@ -1,8 +1,5 @@
 def speak_to_grandma (speak)
 
-print "Say something to Grandma."
-  speak = gets.chomp
-
   if
     speak == speak.downcase
     return "HUH?! SPEAK UP, SONNY!"
