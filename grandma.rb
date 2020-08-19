@@ -1,4 +1,4 @@
-def speak_to_grandma (speak)
+def speak_to_grandma(speak)
 
   if
     speak == speak.downcase
