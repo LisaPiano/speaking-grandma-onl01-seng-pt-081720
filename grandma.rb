@@ -8,7 +8,7 @@ print "Say something to Grandma."
     elsif
 
     speak == "I LOVE YOU GRANDMA!"
-    print "I LOVE YOU TOO PUMPKIN!" 
+    print "I LOVE YOU TOO PUMPKIN!"
 
   elsif
   speak == speak.capitalize
@@ -19,8 +19,5 @@ print "Say something to Grandma."
     speak == speak.upcase
     print "NO, NOT SINCE 1938!"
 
-  
+
 end
-
-
-
